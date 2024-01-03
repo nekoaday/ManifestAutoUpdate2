@@ -1,0 +1,580 @@
+"appid" "282800"
+"common"
+{
+	"name" "100% Orange Juice"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"icon" "baaf4be38deeb8a631567ee6c651ca23b65c834a"
+	"clienticon" "134fd07f20b8c919f572f28d9283635ff05a59e0"
+	"clienttga" "70c698f2a18860a195759eac6068d2a4e74cb0f3"
+	"logo" "3eadeca40de79192f5d1e8585ee953cea54a69ee"
+	"logo_small" "3eadeca40de79192f5d1e8585ee953cea54a69ee_thumb"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "100％おれんじじゅ～すっ！"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1648252800"
+		"tested_build_id" "8319838"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"market_presence" "1"
+	"metacritic_name" "100% Orange Juice"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "98"
+			"height_pct" "80"
+		}
+	}
+	"store_asset_mtime" "1674990394"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Orange_Juice"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fruitbat Factory"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Orange Juice"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_29" "1"
+		"category_8" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_30" "1"
+		"category_18" "1"
+		"category_33" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1378796400"
+	"steam_release_date" "1400267940"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "282800"
+	"store_tags"
+	{
+		"0" "4085"
+		"1" "1770"
+		"2" "4726"
+		"3" "3859"
+		"4" "9"
+		"5" "1666"
+		"6" "1677"
+		"7" "492"
+		"8" "597"
+		"9" "4136"
+		"10" "1756"
+		"11" "1685"
+		"12" "4182"
+		"13" "7208"
+		"14" "4026"
+		"15" "10397"
+		"16" "3871"
+		"17" "5350"
+		"18" "1719"
+		"19" "3978"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"absolutemousecoordinates" "1"
+	"developer" "Orange_Juice"
+	"publisher" "Fruitbat Factory"
+	"homepage" "http://fruitbatfactory.com/100orange/"
+	"gamemanualurl" "https://store.steampowered.com/manual/282800/"
+	"listofdlc" "327340,334080,338360,376200,388790,425360,465480,537330,573180,583640,619510,648980,704180,734740,775410,792420,869670,955130,995770,1050440,1101350,1151070,1180510,1210870,1290250,1338470,1439430,1500840,1610600,1672150,1761020,1850940,1974460,2144450,2242260,2456760,2585600"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "100 Orange Juice"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "100orange.exe"
+			"type" "none"
+			"config"
+			{
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "100orange_x86.exe"
+			"type" "none"
+			"config"
+			{
+				"osarch" "32"
+			}
+		}
+	}
+	"usemms" "1"
+	"steamcontrollertemplateindex" "13"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1854958215"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2731038206"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "qa_build"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65523"
+	"steaminputmanifestpath" "controller_config\\manifest.vdf"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"baselanguages" "english"
+	"282801"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8397092368039542834"
+				"size" "4084967454"
+				"download" "3469454464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devs"
+			{
+				"gid" "B5CE9F82872E0C379B2D908C7DA541AC"
+				"size" "8C8B986C507C188B9AD09519B87AF93D"
+				"download" "B475221E99A43C76D1CB167AF56A9A24"
+			}
+			"gameshow"
+			{
+				"gid" "4A2495CE0F76795C4FE4AB0CFE64C709"
+				"size" "2A4F70B3B4595D1180502D7591535BC2"
+				"download" "FB39279F0A29A9300091E9C76519E481"
+			}
+			"qa_build"
+			{
+				"gid" "79BD8F03297A5F937C655E3B2F630E72"
+				"size" "11CE3F9DEE15C2D866C676D178A06E58"
+				"download" "75F60DCAC9DDE71366C662FB60A8CA4D"
+			}
+			"release_candidate"
+			{
+				"gid" "6F90E9D394877FBF7D2FBAFE9F6E1F47"
+				"size" "3133C22905055AA83A0F620CC2169ECC"
+				"download" "AA2258AF2BFECFE70F2770B6F78EA4A0"
+			}
+		}
+	}
+	"workshopdepot" "282800"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13066767"
+			"timeupdated" "1703962689"
+		}
+		"devs"
+		{
+			"buildid" "8357748"
+			"pwdrequired" "1"
+			"timeupdated" "1647043755"
+		}
+		"gameshow"
+		{
+			"buildid" "12237689"
+			"pwdrequired" "1"
+			"timeupdated" "1695224656"
+		}
+		"qa_build"
+		{
+			"buildid" "8319838"
+			"pwdrequired" "1"
+			"timeupdated" "1646488428"
+		}
+		"release_candidate"
+		{
+			"buildid" "13066767"
+			"pwdrequired" "1"
+			"timeupdated" "1703954760"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "4000000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "."
+			"pattern" "user.dat"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_mainmenu" "At the Main Menu"
+				"#status_shop" "At the Shop"
+				"#status_lobby" "In a Lobby: %lobbyname%"
+				"#status_lobbyprivate" "In a Lobby"
+				"#status_ingame" "In-Game"
+				"#status_results" "Results"
+				"#status_coopmode_details" "Co-op: %bossname%, %difficulty%"
+				"#status_normalmode_details" "Normal Mode: %playername%"
+				"#status_spring2020_details" "Bounty Hunt: %playername%"
+				"#status_summer2020_details" "Fish-a-Fish: %playername%"
+				"#status_shroom_details" "Shroom Zoom: %playername%"
+				"#status_hw2018_details" "Trick and Treat: %playername%"
+				"#status_school_details" "School Crashers: %playername%"
+				"#status_chaos_details" "Chaos Mode: %mutatorname%"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#status_mainmenu" "Au Menu Principal"
+				"#status_shop" "A la Boutique"
+				"#status_lobby" "Dans un Salon: %lobbyname%"
+				"#status_lobbyprivate" "Dans un Salon"
+				"#status_ingame" "En Jeu"
+				"#status_results" "Résultats"
+				"#status_coopmode_details" "Coopération: %bossname%, %difficulty%"
+				"#status_normalmode_details" "Mode Normal: %playername%"
+				"#status_spring2020_details" "Chasseur de Primes: %playername%"
+				"#status_summer2020_details" "Pêche un Poisson: %playername%"
+				"#status_shroom_details" "Shroom Zoom: %playername%"
+				"#status_hw2018_details" "Trick and Treat: %playername%"
+				"#status_school_details" "School Crashers: %playername%"
+				"#status_chaos_details" "Mode Chaos: %mutatorname%"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#status_mainmenu" "主菜单"
+				"#status_shop" "商店"
+				"#status_lobby" "房间：%lobbyname%"
+				"#status_lobbyprivate" "在房间里"
+				"#status_ingame" "游戏中"
+				"#status_results" "结算"
+				"#status_coopmode_details" "合作：%bossname%，%difficulty%"
+				"#status_normalmode_details" "普通：%playername%"
+				"#status_spring2020_details" "赏金猎人：%playername%"
+				"#status_summer2020_details" "捉鱼：%playername%"
+				"#status_shroom_details" "奇异蘑菇：%playername%"
+				"#status_hw2018_details" "拿糖又捣蛋：%playername%"
+				"#status_school_details" "校园撞机：%playername%"
+				"#status_chaos_details" "混沌模式：%mutatorname%"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#status_mainmenu" "主菜單"
+				"#status_shop" "商店"
+				"#status_lobby" "房間：%lobbyname%"
+				"#status_lobbyprivate" "在房間裡"
+				"#status_ingame" "遊戲中"
+				"#status_results" "結算"
+				"#status_coopmode_details" "合作：%bossname%，%difficulty%"
+				"#status_normalmode_details" "普通：%playername%"
+				"#status_spring2020_details" "賞金獵人：%playername%"
+				"#status_summer2020_details" "捉魚：%playername%"
+				"#status_shroom_details" "奇異蘑菇：%playername%"
+				"#status_hw2018_details" "拿糖又搗蛋：%playername%"
+				"#status_school_details" "校園撞機：%playername%"
+				"#status_chaos_details" "混沌模式：%mutatorname%"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#status_mainmenu" "メインメニュー"
+				"#status_shop" "ショップ"
+				"#status_lobby" "ロビー：%lobbyname%"
+				"#status_lobbyprivate" "ロビー"
+				"#status_ingame" "ゲーム中"
+				"#status_results" "結果"
+				"#status_coopmode_details" "Co-op: %bossname%, %difficulty%"
+				"#status_normalmode_details" "Normal Mode: %playername%"
+				"#status_spring2020_details" "Bounty Hunt: %playername%"
+				"#status_summer2020_details" "Fish-a-Fish: %playername%"
+				"#status_shroom_details" "Shroom Zoom: %playername%"
+				"#status_hw2018_details" "Trick and Treat: %playername%"
+				"#status_school_details" "School Crashers: %playername%"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#status_mainmenu" "메인 메뉴에 있음"
+				"#status_shop" "상점에 있음"
+				"#status_lobby" "%lobbyname% 로비에 있음"
+				"#status_lobbyprivate" "로비에 있음"
+				"#status_ingame" "게임 중"
+				"#status_results" "결과 화면"
+				"#status_coopmode_details" "협동전: %bossname%, %difficulty%"
+				"#status_normalmode_details" "일반전: %playername%"
+				"#status_spring2020_details" "현상금 사냥: %playername%"
+				"#status_summer2020_details" "생선 낚시: %playername%"
+				"#status_shroom_details" "버섯아 게섯거라: %playername%"
+				"#status_hw2018_details" "트릭 앤 트리트: %playername%"
+				"#status_school_details" "좌충우돌 학교생활: %playername%"
+				"#status_chaos_details" "카오스 모드: %mutatorname%"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#status_mainmenu" "En el menú principal"
+				"#status_shop" "En la tienda"
+				"#status_lobby" "En una sala: %lobbyname%"
+				"#status_lobbyprivate" "En una sala"
+				"#status_ingame" "En una partida"
+				"#status_results" "Terminando una partida"
+				"#status_coopmode_details" "CO-OP: %bossname%, %difficulty%"
+				"#status_normalmode_details" "Modo Normal: %playername%"
+				"#status_spring2020_details" "Caza-Recompensas: %playername%"
+				"#status_summer2020_details" "Pesca-un-pez: %playername%"
+				"#status_shroom_details" "Hongo Bongo: %playername%"
+				"#status_hw2018_details" "Truco y Trato: %playername%"
+				"#status_school_details" "Rompe-escuelas: %playername%"
+				"#status_chaos_details" "Modo Caótico: %mutatorname%"
+			}
+		}
+		"portuguese"
+		{
+			"tokens"
+			{
+				"#status_mainmenu" "No Menu Principal"
+				"#status_shop" "Na Loja"
+				"#status_lobby" "Em uma Sala: %lobbyname%"
+				"#status_lobbyprivate" "Em uma Sala"
+				"#status_ingame" "Em uma Partida"
+				"#status_results" "Resultados"
+				"#status_coopmode_details" "Cooperativo: %bossname%, %difficulty%"
+				"#status_normalmode_details" "Modo Normal: %playername%"
+				"#status_spring2020_details" "Caça de Recompensa: %playername%"
+				"#status_summer2020_details" "Pesque-Um-Peixe: %playername%"
+				"#status_shroom_details" "Zoom do Cogumelo: %playername%"
+				"#status_hw2018_details" "Gostosuras e Travessuras: %playername%"
+				"#status_school_details" "Penetras Escolares: %playername%"
+				"#status_chaos_details" "Modo do Caos: %mutatorname%"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#status_mainmenu" "В Главном Меню"
+				"#status_shop" "В Магазине"
+				"#status_lobby" "В Лобби: %lobbyname%"
+				"#status_lobbyprivate" "В Лобби"
+				"#status_ingame" "В Игре"
+				"#status_results" "Результаты"
+				"#status_coopmode_details" "КО-ОП: %bossname%, %difficulty%"
+				"#status_normalmode_details" "Обычный Режим: %playername%"
+				"#status_spring2020_details" "Охота за Головами: %playername%"
+				"#status_summer2020_details" "Поймай-ка-Рыбку: %playername%"
+				"#status_shroom_details" "Грибные Погони: %playername%"
+				"#status_hw2018_details" "Кошелек и Жизнь: %playername%"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "21714437"
+"_sha" "76cef484060373d8e16950586293d645f5edcb6c"
+"_size" "14924"
