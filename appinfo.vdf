@@ -17,6 +17,7 @@
 		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
+		"russian" "1"
 		"japanese" "1"
 		"brazilian" "1"
 		"latam" "1"
@@ -227,7 +228,7 @@
 	"publisher" "Fruitbat Factory"
 	"homepage" "http://fruitbatfactory.com/100orange/"
 	"gamemanualurl" "https://store.steampowered.com/manual/282800/"
-	"listofdlc" "327340,334080,338360,376200,388790,425360,465480,537330,573180,583640,619510,648980,704180,734740,775410,792420,869670,955130,995770,1050440,1101350,1151070,1180510,1210870,1290250,1338470,1439430,1500840,1610600,1672150,1761020,1850940,1974460,2144450,2242260,2456760,2585600"
+	"listofdlc" "327340,334080,338360,376200,388790,425360,465480,537330,573180,583640,619510,648980,704180,734740,775410,792420,869670,955130,995770,1050440,1101350,1151070,1180510,1210870,1290250,1338470,1439430,1500840,1610600,1672150,1761020,1850940,1974460,2144450,2242260,2456760,2585600,2727930"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -310,9 +311,9 @@
 		{
 			"public"
 			{
-				"gid" "8862958986704444058"
-				"size" "4084995614"
-				"download" "3469465024"
+				"gid" "6867785223556139914"
+				"size" "1802546128"
+				"download" "1726578144"
 			}
 		}
 		"encryptedmanifests"
@@ -337,9 +338,9 @@
 			}
 			"release_candidate"
 			{
-				"gid" "E84CB1CC04CF66E2591382E9B3337748"
-				"size" "A642743C1FD796CE847A13FA6EEADDF7"
-				"download" "202142D424AA9D1663610ACF158264DF"
+				"gid" "5DC881FAE2BEC1D7D41D7BCBB731C040"
+				"size" "FD57A550EA5EC71D2F7ACA661EC1DEF3"
+				"download" "EE1B30C80020C4F31BDBD59CB1E81DBD"
 			}
 		}
 	}
@@ -348,8 +349,8 @@
 	{
 		"public"
 		{
-			"buildid" "13163993"
-			"timeupdated" "1705260648"
+			"buildid" "13254101"
+			"timeupdated" "1706056024"
 		}
 		"devs"
 		{
@@ -371,9 +372,9 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "13163993"
+			"buildid" "13254101"
 			"pwdrequired" "1"
-			"timeupdated" "1705138434"
+			"timeupdated" "1706054718"
 		}
 	}
 }
@@ -575,6 +576,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "21889526"
-"_sha" "a1d71c22c12825722a540aaa659668e46ef27aaa"
-"_size" "14924"
+"_change_number" "22024174"
+"_sha" "feda098e8e853e6717c1f170d2fd26b15efa3271"
+"_size" "14950"
