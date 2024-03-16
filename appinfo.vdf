@@ -16,8 +16,6 @@
 		"0" "2"
 		"1" "5"
 	}
-	"has_adult_content" "1"
-	"has_adult_content_violence" "1"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -112,6 +110,7 @@
 		"category_29" "1"
 		"category_45" "1"
 		"category_46" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -298,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "5930551335528662982"
-				"size" "12324383495"
-				"download" "6165000448"
+				"gid" "459665680813548276"
+				"size" "12332277067"
+				"download" "6165785120"
 			}
 			"1.0.55"
 			{
@@ -310,27 +309,9 @@
 			}
 			"experimental"
 			{
-				"gid" "6344670304923331648"
-				"size" "12325194252"
-				"download" "6165395792"
-			}
-			"old_version"
-			{
-				"gid" "4621703283119110856"
-				"size" "3867780436"
-				"download" "2196811472"
-			}
-			"old_version_74"
-			{
-				"gid" "6159432201035085314"
-				"size" "4213909307"
-				"download" "2311249744"
-			}
-			"old_version_75"
-			{
-				"gid" "6159432201035085314"
-				"size" "4213909307"
-				"download" "2311249744"
+				"gid" "459665680813548276"
+				"size" "12332277067"
+				"download" "6165785120"
 			}
 			"old_version_966"
 			{
@@ -349,6 +330,21 @@
 				"gid" "6159432201035085314"
 				"size" "4213909307"
 				"download" "2311249744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"photomode"
+			{
+				"gid" "DD672B521FFD67F73C31078296DEF6AA"
+				"size" "8A4D19AB4D718D47C6D56F78DA8854FE"
+				"download" "A2AE104920E457F5D0B5401DC300D50B"
+			}
+			"test"
+			{
+				"gid" "FA3FD350D498331DE128828D79CC6731"
+				"size" "AF39BC9315CFFAB356FAE67E54C88403"
+				"download" "D79EC8F504E1C905A8AA6CE23B10B94B"
 			}
 		}
 	}
@@ -374,12 +370,6 @@
 				"size" "859952553"
 				"download" "717488128"
 			}
-			"old_version_75"
-			{
-				"gid" "2971539057277181562"
-				"size" "349236479"
-				"download" "343066496"
-			}
 			"old_version_966"
 			{
 				"gid" "989505602589646683"
@@ -393,6 +383,21 @@
 				"download" "343066496"
 			}
 		}
+		"encryptedmanifests"
+		{
+			"photomode"
+			{
+				"gid" "26DCFE791CB23D6CC4BF1917831F783B"
+				"size" "0FEDBBA2F690E9149D5F9DCC27F9E761"
+				"download" "EA5D824B22F7297BB364AA8E87284F6A"
+			}
+			"test"
+			{
+				"gid" "02508B90345A9CB95F19D27B660B60E0"
+				"size" "A726E1FFA4D35210FE0713838881DDB7"
+				"download" "8E5CD8F840D7F20EF88937065CFBE7E4"
+			}
+		}
 		"dlcappid" "468550"
 	}
 	"workshopdepot" "233860"
@@ -400,8 +405,8 @@
 	{
 		"public"
 		{
-			"buildid" "10847986"
-			"timeupdated" "1707218031"
+			"buildid" "13521789"
+			"timeupdated" "1708609652"
 		}
 		"1.0.55"
 		{
@@ -411,26 +416,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "13369003"
+			"buildid" "13521789"
 			"description" "Very latest Kenshi updates, prone to crashes and bugs."
-			"timeupdated" "1707136139"
-		}
-		"old_version"
-		{
-			"buildid" "519742"
-			"description" "an older version (0.72)"
-		}
-		"old_version_74"
-		{
-			"buildid" "711086"
-			"description" "an older version (0.74)"
-			"timeupdated" "1459782126"
-		}
-		"old_version_75"
-		{
-			"buildid" "1111942"
-			"description" "an older version (0.76)"
-			"timeupdated" "1462485317"
+			"timeupdated" "1708535453"
 		}
 		"old_version_966"
 		{
@@ -449,6 +437,18 @@
 			"description" "Old stable version 0.74, 32-bit support"
 			"timeupdated" "1462482602"
 		}
+		"photomode"
+		{
+			"buildid" "13716646"
+			"pwdrequired" "1"
+			"timeupdated" "1710261671"
+		}
+		"test"
+		{
+			"buildid" "13716646"
+			"pwdrequired" "1"
+			"timeupdated" "1710260363"
+		}
 	}
 }
 "ufs"
@@ -457,6 +457,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "22225173"
-"_sha" "4312cfed58ab37623efeb1a0bce71dec3344911b"
-"_size" "8455"
+"_change_number" "22732587"
+"_sha" "27915444239dc4fd6715ad534fd382878b2eb7ba"
+"_size" "8531"
