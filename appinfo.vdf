@@ -139,6 +139,7 @@
 		"category_30" "1"
 		"category_18" "1"
 		"category_33" "1"
+		"category_62" "1"
 	}
 	"supported_languages"
 	{
@@ -311,18 +312,18 @@
 		{
 			"public"
 			{
-				"gid" "164718017183812367"
-				"size" "1798299756"
-				"download" "1721212416"
+				"gid" "8801202447810669667"
+				"size" "1791344103"
+				"download" "1721037760"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"devs"
 			{
-				"gid" "B5CE9F82872E0C379B2D908C7DA541AC"
-				"size" "8C8B986C507C188B9AD09519B87AF93D"
-				"download" "B475221E99A43C76D1CB167AF56A9A24"
+				"gid" "A866B8456F838DB90D726D07784C7AB6"
+				"size" "6D030E3DF86C50D1EC0444BBB5EA1F4B"
+				"download" "9B3C1BA46E5B8F6479D649B7CFEB9DA3"
 			}
 			"gameshow"
 			{
@@ -332,15 +333,15 @@
 			}
 			"qa_build"
 			{
-				"gid" "79BD8F03297A5F937C655E3B2F630E72"
-				"size" "11CE3F9DEE15C2D866C676D178A06E58"
-				"download" "75F60DCAC9DDE71366C662FB60A8CA4D"
+				"gid" "42E495925EDE42A63D5864BBB5D733AB"
+				"size" "C3B87202DB56EDDFE159ABEE3D93B18A"
+				"download" "CBCCE05874651F5F56C738D3ADB00E85"
 			}
 			"release_candidate"
 			{
-				"gid" "06437912E2BD5082640534DFA7668BBB"
-				"size" "9AC42A888E7F18B6B0838DDEFFA0F139"
-				"download" "948F21C54926041AB61A2F7A85C1284A"
+				"gid" "D46FA5DC9BC68B0CDD391318F692B7AF"
+				"size" "E707F114C7F242B093F602C4F7E5EC40"
+				"download" "D6C75628F32F6C1404036B4A318F6739"
 			}
 		}
 	}
@@ -349,14 +350,14 @@
 	{
 		"public"
 		{
-			"buildid" "13394659"
-			"timeupdated" "1707348300"
+			"buildid" "13623225"
+			"timeupdated" "1709412401"
 		}
 		"devs"
 		{
-			"buildid" "8357748"
+			"buildid" "13563168"
 			"pwdrequired" "1"
-			"timeupdated" "1647043755"
+			"timeupdated" "1708943446"
 		}
 		"gameshow"
 		{
@@ -366,15 +367,15 @@
 		}
 		"qa_build"
 		{
-			"buildid" "8319838"
+			"buildid" "13563499"
 			"pwdrequired" "1"
-			"timeupdated" "1646488428"
+			"timeupdated" "1708945785"
 		}
 		"release_candidate"
 		{
-			"buildid" "13394659"
+			"buildid" "13623225"
 			"pwdrequired" "1"
-			"timeupdated" "1707324507"
+			"timeupdated" "1709411835"
 		}
 	}
 }
@@ -576,6 +577,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22252414"
-"_sha" "64b56458cce3d362ae778669a4e40447f66883bb"
-"_size" "14949"
+"_change_number" "22733487"
+"_sha" "1f24c94e9f228b1ec4afff0a04778632e5d83144"
+"_size" "14974"
