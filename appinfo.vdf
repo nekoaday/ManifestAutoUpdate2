@@ -297,9 +297,9 @@
 		{
 			"public"
 			{
-				"gid" "459665680813548276"
-				"size" "12332277067"
-				"download" "6165785120"
+				"gid" "5962268813919641662"
+				"size" "12317638705"
+				"download" "6159237328"
 			}
 			"1.0.55"
 			{
@@ -309,9 +309,9 @@
 			}
 			"experimental"
 			{
-				"gid" "459665680813548276"
-				"size" "12332277067"
-				"download" "6165785120"
+				"gid" "5962268813919641662"
+				"size" "12317638705"
+				"download" "6159237328"
 			}
 			"old_version_966"
 			{
@@ -336,9 +336,9 @@
 		{
 			"photomode"
 			{
-				"gid" "DD672B521FFD67F73C31078296DEF6AA"
-				"size" "8A4D19AB4D718D47C6D56F78DA8854FE"
-				"download" "A2AE104920E457F5D0B5401DC300D50B"
+				"gid" "2289E8FFDCCD9DC78BFA5BE72143164A"
+				"size" "F4DB1D378A13F8804FD0ABE30DA9E627"
+				"download" "4A685B7D2AAFD5D45C846F4743232E0D"
 			}
 			"test"
 			{
@@ -405,8 +405,8 @@
 	{
 		"public"
 		{
-			"buildid" "13521789"
-			"timeupdated" "1708609652"
+			"buildid" "13871665"
+			"timeupdated" "1711990072"
 		}
 		"1.0.55"
 		{
@@ -416,9 +416,9 @@
 		}
 		"experimental"
 		{
-			"buildid" "13521789"
+			"buildid" "13871665"
 			"description" "Very latest Kenshi updates, prone to crashes and bugs."
-			"timeupdated" "1708535453"
+			"timeupdated" "1711552510"
 		}
 		"old_version_966"
 		{
@@ -439,9 +439,9 @@
 		}
 		"photomode"
 		{
-			"buildid" "13716646"
+			"buildid" "13871665"
 			"pwdrequired" "1"
-			"timeupdated" "1710261671"
+			"timeupdated" "1711552537"
 		}
 		"test"
 		{
@@ -457,6 +457,6 @@
 	"maxnumfiles" "100"
 }
 "_missing_token" "False"
-"_change_number" "22732587"
-"_sha" "27915444239dc4fd6715ad534fd382878b2eb7ba"
-"_size" "8531"
+"_change_number" "22987013"
+"_sha" "fa894c8b00b883696cd35a4dd1ecca3497d0c4f1"
+"_size" "8533"
