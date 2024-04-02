@@ -285,6 +285,9 @@
 }
 "depots"
 {
+	"overridescddb" "1"
+	"baselanguages" "english"
+	"workshopdepot" "282800"
 	"228989"
 	{
 		"config"
@@ -303,8 +306,6 @@
 		"depotfromapp" "228980"
 		"sharedinstall" "1"
 	}
-	"overridescddb" "1"
-	"baselanguages" "english"
 	"282801"
 	{
 		"systemdefined" "1"
@@ -312,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "8801202447810669667"
-				"size" "1791344103"
-				"download" "1721037760"
+				"gid" "4894075408999009627"
+				"size" "1799886643"
+				"download" "1729716096"
 			}
 		}
 		"encryptedmanifests"
@@ -339,19 +340,24 @@
 			}
 			"release_candidate"
 			{
-				"gid" "D46FA5DC9BC68B0CDD391318F692B7AF"
-				"size" "E707F114C7F242B093F602C4F7E5EC40"
-				"download" "D6C75628F32F6C1404036B4A318F6739"
+				"gid" "C29C91C2A3702DEA19615E576F501D96"
+				"size" "0B30CD6A76D8F1701FBA1FE9673CA21B"
+				"download" "34F787E0EE72F75E64045C1073CE1085"
+			}
+			"videos"
+			{
+				"gid" "E3C55A046B5CBC82EBE0313ECE76C269"
+				"size" "70702A1361346B4B56C03437C0FA73F9"
+				"download" "7A7CBAE6738386E6901CC29BB18C4658"
 			}
 		}
 	}
-	"workshopdepot" "282800"
 	"branches"
 	{
 		"public"
 		{
-			"buildid" "13623225"
-			"timeupdated" "1709412401"
+			"buildid" "13915535"
+			"timeupdated" "1712002783"
 		}
 		"devs"
 		{
@@ -373,9 +379,15 @@
 		}
 		"release_candidate"
 		{
-			"buildid" "13623225"
+			"buildid" "13915535"
 			"pwdrequired" "1"
-			"timeupdated" "1709411835"
+			"timeupdated" "1712001754"
+		}
+		"videos"
+		{
+			"buildid" "1686278"
+			"pwdrequired" "1"
+			"timeupdated" "1711094046"
 		}
 	}
 }
@@ -577,6 +589,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "22733487"
-"_sha" "1f24c94e9f228b1ec4afff0a04778632e5d83144"
-"_size" "14974"
+"_change_number" "22989245"
+"_sha" "78b6b042dc8a458cc3aa6aae2ae7bb492360b487"
+"_size" "15248"
